@@ -1,0 +1,29 @@
+header{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px;
+}
+main{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+    padding: 70px;
+}
+button{
+    background-color: blue;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+    padding: 10px;
+}
+footer{
+    background-color: peachpuff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+    padding: 100px;
+}
